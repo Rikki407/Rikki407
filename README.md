@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Rishab Lamba 👋 <a href="https://www.rishablamba.com/"><em>Click here to view my Portfolio</em></a></h2>
-<a href="https://www.rishablamba.com/"><img alt="GIF" src="https://user-images.githubusercontent.com/26832011/148662938-3bd7a83c-3369-4c59-813d-4a68d512fadd.gif"/></a>
+<a href="https://www.rishablamba.com/"><img alt="GIF" src="https://user-images.githubusercontent.com/26832011/148662938-3bd7a83c-3369-4c59-813d-4a68d512fadd.gif" width="100%"/></a>
 
 <h2> 👨🏻‍💻 About Me </h2>
 
